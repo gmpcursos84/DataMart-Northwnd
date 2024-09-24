@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Load_DataMart_Northwnd", "Load_DataMart_Northwnd.dtproj", "{7579C7D8-0147-4AAF-9319-EEBEFAFFBAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7579C7D8-0147-4AAF-9319-EEBEFAFFBAB1}.Development|Default.ActiveCfg = Development
+		{7579C7D8-0147-4AAF-9319-EEBEFAFFBAB1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815302CC-29B6-4118-9EE1-E4385E35A556}
+	EndGlobalSection
+EndGlobal
